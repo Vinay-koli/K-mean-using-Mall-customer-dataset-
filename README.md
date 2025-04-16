@@ -1,2 +1,3 @@
 # K-mean-using-Mall-customer-dataset-
 Solving Mall customers data using K-mean Cluster. This data is an Unsupervised data which will solved using K-mean Cluster algorithm
+In this project there is an raw dataset of customers in that there are mentioned who come regularly to mall. The data is divided into gender, age, Annual Income (in $), & Spending Score (1-100). The client wanted to segregate those customers who come regularly, and buy things so that he can recommend them for other discounts or sale in future. Hence so this project we have solved the data using K-Mean Cluster. We have divided the dataset into 5 parts for the client to understand i.e. Standard, Target, Carefull, Sensible & Careless.
